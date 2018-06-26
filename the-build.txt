@@ -1,0 +1,20 @@
+the-build.txt
+Created Tue Jun 26 09:21:31 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+cpu: AMD RYZEN Threadripper 1950X 16-Core / 32 Threads
+     3.4 GHz Socket sTR4 180W YD195XA8AEWOF Desktop Processor
+     14nm, max 4Ghz
+     price: $946.44 (newegg - June 26, 2018)
+
+     AMD RYZEN Threadripper 1900X 8-Core / 16 Threads
+     3.8 GHz Socket sTR4 180W YD190XA8AEWOF Desktop Processor,
+     Enermax Liqtech TR4 280 AIO Liquid CPU Cooler
+     AMD RYZEN Threadripper CPU w/ Cooler Combo
+     Core name: Summit Ridge
+     Socket: AMD Socket TR4 X399
+     14nm, 3.8-4Ghz, 16MB L3, 
+     Virtualization Technology Support: yes
+     Ram: DDR4-2667
+     price: $551.55 (newegg - June 26, 2018)
