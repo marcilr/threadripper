@@ -18,3 +18,8 @@ cpu: AMD RYZEN Threadripper 1950X 16-Core / 32 Threads
      Virtualization Technology Support: yes
      Ram: DDR4-2667
      price: $551.55 (newegg - June 26, 2018)
+
+motherboard:
+  Asus ROG Zenith Extreme
+  price: $488.55 (amazon - Juen 26, 2018)
+  https://www.amazon.com/ROG-ZENITH-EXTREME-Threadripper-Motherboard/dp/B0748K1F99?tag=pcworld02-20&SubscriptionId=AKIAIVYSMSQJCH4VBFJA&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0748K1F99&ascsubtag=US-001-3213147-000-1439031-web-20
