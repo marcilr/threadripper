@@ -1,0 +1,11 @@
+threadripper.txt
+Created Tue Jun 26 09:18:28 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Threadripper
+
+
+For a while I've thought of building a box for virtualization.
+Need a new workstation motherboard so this might be the time
+to do so.
